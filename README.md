@@ -8,7 +8,7 @@ LightShadow 分为 **`light` (光)** 和 **`shadow` (影)** 两个版本。均�
 运行以下命令下载主题：
 ```bash
 mkdir -p /boot/grub/themes
-git clone https://github.com/luotianyi-dev/grub-theme-lightshadow.git /boot/grub/themes/lightshadow
+git clone https://github.com/luotianyi-dev/luotianyi-10th-grub-theme.git /boot/grub/themes/lightshadow
 ```
 
 然后，您需要配置您的 GRUB 配置。根据您的 Linux 发行版不同，您的 GRUB 配置可能位于不同位置。一般来说，配置位于 `/etc/default/grub`。若您的 Linux 发行版使用不同的位置，请修改以下命令中的配置文件路径。
